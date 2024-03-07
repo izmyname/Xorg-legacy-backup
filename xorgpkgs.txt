@@ -1,10 +1,12 @@
 autotiling
 i3-wm
 i3lock
+imv
 maim
 nvidia-settings
 picom
 polybar
 unclutter
+xclip
 xss-lock
 xwallpaper
